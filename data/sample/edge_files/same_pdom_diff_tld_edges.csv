@@ -1,0 +1,11 @@
+source,target
+example.com,example.net
+example.com,example.org
+example.net,example.com
+example.net,example.org
+example.org,example.com
+example.org,example.net
+newsdaily.example,newsdaily.test
+newsdaily.test,newsdaily.example
+weather.example,weather.test
+weather.test,weather.example

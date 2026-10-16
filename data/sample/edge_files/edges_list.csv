@@ -1,0 +1,6 @@
+subdomain_nodes,primary_domain_nodes,apex,edge_files/apex_edges.csv
+subdomain_nodes,ip_nodes,resolving_sdom,edge_files/resolving_sdom_edges.csv
+primary_domain_nodes,ip_nodes,resolving_pdom,edge_files/resolving_pdom_edges.csv
+subdomain_nodes,subdomain_nodes,sdom_similar,edge_files/sdom_similar_edges.csv
+primary_domain_nodes,primary_domain_nodes,pdom_similar,edge_files/pdom_similar_edges.csv
+primary_domain_nodes,primary_domain_nodes,same_pdom_diff_tld,edge_files/same_pdom_diff_tld_edges.csv

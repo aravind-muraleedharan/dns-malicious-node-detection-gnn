@@ -1,0 +1,20 @@
+# Versions used for the paper
+setuptools<70        # torch 1.10 imports pkg_resources.packaging
+torch==1.10.2
+torch-geometric==2.0.3
+torch-scatter==2.0.9
+torch-sparse==0.6.12
+numpy==1.19.5
+pandas==1.1.5
+scikit-learn==0.24.2
+tldextract==3.1.2
+Levenshtein==0.18.1
+geoip2==4.6.0
+
+# data collection
+dnspython
+PySocks
+# sublist3r: install from https://github.com/aboul3la/Sublist3r
+
+# imported by the similarity-edge scripts
+tensorflow

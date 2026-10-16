@@ -1,0 +1,11 @@
+source,target
+a1b2c3d4.xk3jq9zt.test,a1b2c3d5.xk3jq9zt.test
+a1b2c3d5.xk3jq9zt.test,a1b2c3d4.xk3jq9zt.test
+img1.photogallery.test,img2.photogallery.test
+img2.photogallery.test,img1.photogallery.test
+node01.cdn.example.com,node02.cdn.example.com
+node02.cdn.example.com,node01.cdn.example.com
+ns1.3xk9qq01.test,ns2.3xk9qq01.test
+ns2.3xk9qq01.test,ns1.3xk9qq01.test
+user1.blogspace.test,user2.blogspace.test
+user2.blogspace.test,user1.blogspace.test

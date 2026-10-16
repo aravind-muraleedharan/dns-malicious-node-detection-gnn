@@ -1,0 +1,34 @@
+# Data (not part of this repository)
+/input_files/
+/node_files/
+/edge_files/
+*.csv
+# keep the fictional sample data
+!data/sample/**/*.csv
+*.mmdb
+*.json
+resolvers_list
+domains.csv
+
+# Generated graph objects, checkpoints and logs
+bigdata
+idx_bigdata
+model_checkpoints/
+sage_checkpoints/
+*.pt
+*.pth
+*.log
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+venv*/
+.venv/
+env/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
